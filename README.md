@@ -19,8 +19,12 @@ How to edit JSON:
 2. https://github.com/ENCODE-DCC/atac-seq-pipeline/blob/master/docs/input.md
 
 ## Pipeline protocol:
+https://www.encodeproject.org/atac-seq/
 https://docs.google.com/document/d/1f0Cm4vRyDQDu0bMehHD7P7KOMxTOP-HiNoIvL1VcBt8/edit
 
 ## Organize output:
 
+https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/croo.png
 
+## Organize QC:
+https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/qc.png
