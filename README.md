@@ -3,11 +3,11 @@
 
 Run ENCODE ATAC pipeline on Mordor:
 
-## STEP1: Copy expmaple json to own directory
+## STEP1: Copy example json to own directory
 cp /mnt/work1/users/lupiengroup/pipelines/encode-atac-pipeline-v1.9.0/example.json /path/to/directory
 
 
-## STEP2: Edit expmaple json according to your own sample
+## STEP2: Edit example json according to your own sample
 
 ## STEP3: Run following command with edited json file
 bash /mnt/work1/users/lupiengroup/pipelines/encode-atac-pipeline-v1.9.0/run_encode-atac-pipeline.sh edited.example.json
