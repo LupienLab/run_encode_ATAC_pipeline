@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1f0Cm4vRyDQDu0bMehHD7P7KOMxTOP-HiNoIvL1VcBt8/
 
 ## Organize output:
 
-![croo] https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/croo.png
+![croo](https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/croo.png)
 
 ## Organize QC:
-![qc] https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/qc.png
+![qc](https://github.com/LupienLab/run_encode_ATAC_pipeline/blob/main/qc.png)
